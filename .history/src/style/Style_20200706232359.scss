@@ -1,0 +1,29 @@
+.home_top {
+    .ivu-input-large {
+        font-size: 14px !important;
+    }
+
+    .ivu-icon-ios-search:hover {
+        cursor: pointer;
+        color: rgb(58, 58, 58);
+        font-weight: 600;
+    }
+
+    .ivu-tooltip-popper {
+        position: absolute !important;
+        will-change: top, left !important;
+        top: 61px !important;
+        left: 768px !important;
+    }
+
+    // .ivu-tooltip-dark {
+    //     position: absolute;
+    //     will-change: top, left;
+    //     top: 61px;
+    //     left: 1100px;
+    // }
+    .ivu-tooltip-inner{
+        min-width: 354px;
+    min-height: 242px;
+    }
+}

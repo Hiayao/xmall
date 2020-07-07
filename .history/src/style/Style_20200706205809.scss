@@ -1,0 +1,20 @@
+.home_top {
+    .ivu-input-large {
+        font-size: 14px !important;
+    }
+
+    .ivu-icon-ios-search:hover {
+        cursor: pointer;
+        color: rgb(58, 58, 58);
+        font-weight: 600;
+    }
+    .ivu-btn-default{
+        border: none;
+    background: none;
+    }
+    .ivu-btn{
+        padding: 0;
+        height: 22px;
+        background: none;
+    }
+}

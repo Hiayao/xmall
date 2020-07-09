@@ -1,0 +1,45 @@
+<template>
+<!-- 全部商品 -->
+ <div class="All_All">
+    <div class="All">kshd</div>
+ </div>
+</template>
+
+<script>
+ export default {
+   name: '',
+   props: {
+   },
+   components: {
+
+   },
+   data () {
+     return {
+
+     }
+   },
+   methods: {
+
+   },
+   mounted() {
+
+   },
+   watch: {
+
+   },
+   computed: {
+
+   }
+ }
+</script>
+
+<style scoped lang='scss'>
+.All_All{
+  background: rgb(237,237,237);
+  width: 100%;
+//   height: 100px;
+  display: flex;
+  justify-content: center;
+
+}
+</style>

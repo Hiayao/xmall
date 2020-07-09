@@ -1,0 +1,44 @@
+.home_top {
+    .ivu-input-large {
+        font-size: 14px !important;
+    }
+
+    .ivu-icon-ios-search:hover {
+        cursor: pointer;
+        color: rgb(58, 58, 58);
+        font-weight: 600;
+    }
+
+    .ivu-tooltip-popper {
+        position: absolute !important;
+        will-change: top, left !important;
+        top: 61px !important;
+        left: 888px !important;
+    }
+
+    .ivu-tooltip-inner {
+        min-width: 326px;
+        min-height: 326px;
+    }
+}
+.login_All{
+    .ivu-form-item-content{
+        margin-left: 0 !important;
+        width: 248px;
+    }
+    .ivu-btn{
+        width: 248px;
+    }
+    .vp-dark-btn.vp-default-btn{
+        background-color: rgb(177,177,177) !important;
+    }
+    .ivu-divider-horizontal{
+        margin: 24px 0 0 0 !important;
+    }
+}
+.Details_All{
+    .ivu-btn{
+        width: 128px;
+        margin-right: 20px;
+    }
+}
